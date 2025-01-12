@@ -1,0 +1,312 @@
+[
+  {
+    "grade": false,
+    "grade_id": "cell-8653d83277fb8418"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-7523865a465c9b1e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-825b96ce06875360"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-7b7bbb08dff3040d"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b03b01d3bd61bc0f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-2583c6a26873f427"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-741b5efbb2c5f945"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a51593eb71551154"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b2b7443d0480311c"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8ee52e294863edd9"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ceed6cc164f03815"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4671fa03f3944139"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d85438a27666f252"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c8f38367d33a874e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-0f572ccb4f2eed6d"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-5bc51b213e3495d9"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e96ca63d0ccacaf4"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-79f659ce1e13fda7"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-68254433d58dfef9"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-07fe46d6a751454b"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8436764a1dd93dc7"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-70ab95dd8071897a"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-17ade2df712e21e6"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a119420de324266c"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ee43563ec55838ed"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d398db15eb46f650"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ad4c08ac5cb16f59"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4a444edeeb9268a9"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-3fd0c22a92e541e3"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-cba286fd4075d893"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-76b1139eccd0ed58"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-61532367e8d33755",
+    "label": "Hidden test cell: Exercise 1 [10 points]"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-1180d5dc773f6ff4",
+    "label": "Hidden test cell: Exercise 2 [10 points]"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-dd9b62c1e826a245",
+    "label": "Hidden test cell: Exercise 3 [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c4a2c15a6a98abf0"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-3c98f0acdf811685"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-3634cc3d539441c2"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-1df21ca45d9d5c67"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-7c1fcabfc2ba5a9c"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-1cabefeec5e1cf70"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-c6fed73a25633029",
+    "label": "Hidden test cell: Exercise 4 [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d2696116d62fd7ca"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-205d28575317a39c"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a94c031cf67afb4f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-9343288efcab2ee8"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8f9fe71daeddcdaa"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-962c853218ef8a99"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-5dd01161ebcf0e5d"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d69f7e1a6b657229"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c9f74064d0da6335"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-9ecb119a6399614b"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-0a368433383bc78c"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-cd0a5df68eb0bdde",
+    "label": "Hidden test cell: Exercise 5 [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-85c2cf25d4fba682"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b4a75a8b976d4aaf"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-23a60381928f9e78"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ba81e3393eb6f13c"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f30d23919c1bc1f4"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ff3a9ba26f232db9"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-62ff69e249c9f591"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e9a6a7834942b2ad"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-07e5479f42cdbff4"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e1249e2768b4a70b"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8a4bb6bb84c24d82"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-ce0ca0f090c01ba9",
+    "label": "Hidden test cell: Initializing Model Parameters [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-615d1fb813fa002a"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-64c3079cc937f819",
+    "label": "Hidden test cell: Defining the Model [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-9a215192ecde9028"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-c736aba0ee97c23a",
+    "label": "Hidden test cell: Defining the Loss Function [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-6cfd21d340b940b9"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-fc34af6a3ad58767",
+    "label": "Hidden test cell: Defining the Optimization Algorithm [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b1f4936a88b7fc46"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f5bcc835498528f7"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-82cd66ab962439d4"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-71658d76dbe33cf9",
+    "label": "Hidden test cell: Training [10 points]"
+  }
+]
