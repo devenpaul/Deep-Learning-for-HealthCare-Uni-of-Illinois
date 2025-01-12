@@ -1,0 +1,118 @@
+[
+  {
+    "grade": false,
+    "grade_id": "cell-52506fc51faeb1a1"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-3623199cbecde4ac"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-83a510935b5eb408"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-3ba99a4f788dc7e8"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f24c5a8a552afa64"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-115765ba096f745e"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-458b2462e7d5c860",
+    "label": "Hidden test cell: 1 Dataloading Checks I [10 points]"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-0be378369cbc90a4",
+    "label": "Hidden test cell: 1 Dataloading Checks II [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e908531cdc33dff4"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-9739d5ae7e1cafc5"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-7fa15685c339c1c7"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-00dd6923b07cc0c6",
+    "label": "Hidden test cell: 2.1 Convolutional Layer Output Volume [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-cdc8af08d2459036"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-01c27cfe7bb587a3"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-0912d310421bd203",
+    "label": "Hidden test cell: 2.2 Defining the CNN [15 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-10d68ed45ec4c640"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-5dc1c89e9698d0d8",
+    "label": "Hidden test cell: 2.3 Using Predefined CNN Model [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-3b34f300dcde3d1b"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-51d29fbc3eaa9c24"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8d597f91c30006e4"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-40bee829e3b63b7d",
+    "label": "Hidden test cell: 3.1 Criterion and Opimizer [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a4726bc7890c2ffa"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-79f9007519fee573"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-8bf229ea988a6488",
+    "label": "Hidden test cell: 3.2 Training [15 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c8836a08154e7f31"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-c74a407692de012e",
+    "label": "Hidden test cell: 4 Test the Trained Network [20 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-5cf7218279fa399f"
+  }
+]
