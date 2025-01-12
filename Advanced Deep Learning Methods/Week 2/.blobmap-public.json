@@ -1,0 +1,136 @@
+[
+  {
+    "grade": false,
+    "grade_id": "cell-52506fc51faeb1a1"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-dcd6c662fba70926"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4fe346254a16fed8"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-6004290bcf81c83a"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-50652afef8679215"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-71f2f1fcbf0214c3"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f24c5a8a552afa64"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-af2084dbbc442f32"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-562360d4d2419770"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a416f329b2ced06a"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-057189f6f4e8c507"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-bbaa361d4cbc5a08",
+    "label": "Hidden test cell: 1 Graph [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-43329f1737df8ae9"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-450a3e6b67209711"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e4938a04f56ed102"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c3829b149e33cc49"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-9d61d2bd530e86df"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-cdaa11793e76d9f6",
+    "label": "Hidden test cell: 2 Dataset [20 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b140e35012a9155f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c2ee216a9b969d90"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ef0aec44ade0b887"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-2df711bca4633384"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f6ce36bdec40498e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8b4723269937d4e1"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-59d9f0b1bd9306f0"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-07b3af296d95aca4"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-29cdeed2f72a1874",
+    "label": "Hidden test cell: 3 GCNConv [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-652a92ed66e4289c"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-5e669e952726618a",
+    "label": "Hidden test cell: 3 GCN 1 [20 points]"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-2759a5f7119635ed",
+    "label": "Hidden test cell: 3 GCN 2 [20 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a90522f120575801"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-963e477404fcd251",
+    "label": "Hidden test cell: 4 Training and Inferencing [20 points]"
+  }
+]
