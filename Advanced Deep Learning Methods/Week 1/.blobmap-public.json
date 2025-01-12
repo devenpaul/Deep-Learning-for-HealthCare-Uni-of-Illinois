@@ -1,0 +1,174 @@
+[
+  {
+    "grade": false,
+    "grade_id": "cell-52506fc51faeb1a1"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-dcd6c662fba70926"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4fe346254a16fed8"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-6004290bcf81c83a"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-71f2f1fcbf0214c3"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f24c5a8a552afa64"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-0d031c45ba4a787e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-66a0abe057d9ca85"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ae331190a6d48106"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-945119717fb61cc7"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e6d339169f140694"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-308c526175fdb62e"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-cc0baa6c9dadef8c",
+    "label": "Hidden test cell: 1.1 CustomDataset [5 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-de0d816943d88377"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-4b3472bbf5973793",
+    "label": "Hidden test cell: 1.2 Collate Function [5 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-125312ce2d90406a"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-7f2e734b97c94232"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c9732f7be72cb6e4"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-0c30a49563819f13",
+    "label": "Hidden test cell: 1.3 DataLoader [5 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a2fa0595b385b366"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-482be961094244c5"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-7eb18a6f4e5350fc"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f982ebdee9832892"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ba7e37a83e467960"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-be223e923ff844ae"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-6ef630263469161e",
+    "label": "Hidden test cell: Step 2: AlphaAttention [20 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d09c4bc0d5bf0e78"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-33b9b75995614f25",
+    "label": "Hidden test cell: 2.2 Step 3: BetaAttention [20 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-92d8f1e9da0e999f"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-832260968193144c",
+    "label": "Hidden test cell: 2.3 Attention Sum [30 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e743e3f53f6fa48d"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b6589b3ccf6f9a92"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-02ad1b5432de58bd"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-aa4410356a92a6fd"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-873df7380d762445"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-9b3672b70944a8d9"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-2f0785a5f7faf51f"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-0f2e27cf698ba97e",
+    "label": "Hidden test cell: 3 Training and Inferencing [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-698c301cbf20c564"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-0074e6cb991cea06"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-799d937773af6b46",
+    "label": "Hidden test cell: 4 Sensitivity Analysis [5 points]"
+  }
+]
