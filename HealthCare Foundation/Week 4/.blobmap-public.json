@@ -1,0 +1,227 @@
+[
+  {
+    "grade": false,
+    "grade_id": "cell-e5edec0425de3a50"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-25ebf45813d4a47b"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4c4fd1b10bb8a9d5"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ad33073e8b0cba4e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8054cfec9ea92f79"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-67c8798540ddc767"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-524b54d72547e9f6"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d667dcc941d1fd95"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-bf214c1386866d68"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-6549ed49fd94ebeb"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-4899117c7f091884",
+    "label": "Hidden test cell: 1.1 PyTorch Basics relu() [7 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-1a6d1501a6a4fd62"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-34164c480f56b751"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-a809913ba97340a1",
+    "label": "Hidden test cell: 1.2 PyTorch Basics sigmoid() [7 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-3421ab3e2267fc3e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b0e0572f466ce99e"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-11af82620f5c4ec4",
+    "label": "Hidden test cell: 1.3 PyTorch Basics softmax() [8 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f27e9e38ebdd61bd"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b70799c84c68e235"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-1c4dbba6ce4e73c2"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b7c7ccfb388ff41d"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8ed7cb89673d4a01"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-bf89e0af45d153ac"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-6891b7e468210e20",
+    "label": "Hidden test cell: 1.4 PyTorch Basics single_layer_network() [8 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f9e5a8eb5a8144e0"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-1a752502371d0365"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-500f59fa8928300d"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-6a891fabac07cd53"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-12381cfa8e310e4e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-5d36ed8f11eb5bef"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-1a5652f7d706caeb"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a20101e2c2f1354e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d72980d7a1108c0c"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-9c13efef4d9f91cd"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-26cbb325759506a2"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e4408f69961f6cb5"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f76f90197c77b3df"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-2856eacbec25c451",
+    "label": "Hidden test cell: 2.2 Build the Model [20 points]"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-4eb5d8c51ab28194",
+    "label": "Hidden test cell: 2.2 Dropout layer [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-5a70a161a6fa7e7e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ef5884df24944fc0"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4994c16a476d76b7"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d8ff55b4a3eac555"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4f20a0da1ae4d342"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-1a0dae49f26b3ae1"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-657d74b9707831fe",
+    "label": "Hidden test cell: 2.3 Train the Network criterion [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a288a935651be8ee"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-5d7a20ac55509d77",
+    "label": "Hidden test cell: 2.3 Train the Network optimizer [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-5b88cc469821dbe6"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8970a0bdbd7b14bb"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-fa0511ee9c0bbe4b"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-3f7737daea843131"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-199ef9f45ea5ce75"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-a52f94729ecc1271",
+    "label": "Hidden test cell: 2.3 Train the Network evaluating and training [20 points]"
+  }
+]
