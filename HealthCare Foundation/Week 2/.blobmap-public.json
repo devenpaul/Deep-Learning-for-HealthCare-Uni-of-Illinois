@@ -1,0 +1,156 @@
+[
+  {
+    "grade": false,
+    "grade_id": "cell-757f7449dc485bc3"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f4a83de52abb8394"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-10db081f94b98d02"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-52ddaebbf4a162a4"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e59364a32d9b5fc9"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d92e9dc996c61070"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d9212ce110d4dc0b"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b20f2e82052a2926"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8a8108bebe9e0d39"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e092836975c6797a"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a53b106557b4e31f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d28045e592b8f081"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-8f9c85ba731d96e5",
+    "label": "Hidden test cell: 1 Event Counts [10 points]"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-343b745247b90367",
+    "label": "Hidden test cell: 1 Encounter Counts [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c5413d29c37a0a33"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-aa768bbdeed84907"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-7207b1c9d6f08a03",
+    "label": "Hidden test cell: 2.1 Index vid [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4a3b0c07c74dc8dc"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-a298eb0fe4ed28f9",
+    "label": "Hidden test cell: 2.2 Filtered Events [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-845f881f710c6b3b"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-b5931f772d6dac9f",
+    "label": "Hidden test cell: 2.3 Aggregate Events [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8db3e08c181b90cc"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-286e10c42da874be"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-5f208e4ea6e5a154",
+    "label": "Hidden test cell: 2.4 Svmlight format [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-480980a849ebd089"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-5be75ccfce6fe003"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a02bc53e8da63b0b"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-87c0e61ad837e42c"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4c04be8133e4b75f"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-c59bbb34681f832b",
+    "label": "Hidden test cell: 3.1a Training Precision and F1 score [7 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f6628dbab9bc57d4"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-f23ffe89a0cd304a",
+    "label": "Hidden test cell: 3.1b Prediction Precision and F1 [7 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-1a6ab34b3605550e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-795340da3ac71dd4"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-c7bfbc42bf80f768",
+    "label": "Hidden test cell: 3.2 Cross Validation F1 [10 points]"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-8ebda70b8d984a2f",
+    "label": "Hidden test cell: sanity check"
+  }
+]
